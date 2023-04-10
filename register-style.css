@@ -1,0 +1,162 @@
+.inner
+{
+	 background: rgba(255, 255, 255, 0.72);
+	width: 37%;
+    height: 100%;
+/*	padding-left:15px; */
+	
+	
+	
+}
+.container {
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    height: 80%;
+	padding-top:180px;
+} 
+
+.title {
+	width: 100%;
+    height: 40%;
+     display: flex;
+   align-items: center;
+    background: rgba(6, 234, 41, 0.38);
+    color: #ffffff;
+/*	padding-right:2px; */
+}
+.title{
+padding-left:200px;
+ /*  font-size: 2em; */
+ font-size:40px;
+
+}
+.content{
+	border-bottom: 1px solid white;
+    height: 25%;
+
+}
+.txt{
+    background: #fffefe;
+    margin-top: 5%;
+    margin-left: 8%;
+    width: 25vw;
+}
+.txt1 {
+	background: #fffefe;
+    margin-top: 1%;
+    margin-left: 8%;
+    width: 25vw;
+}
+
+.txt1 span{
+	padding-right: 2%;
+    padding-left: 2%;
+}
+
+#span{
+    margin-left: 3vw;
+    color: red;
+    font-size: 1.2em;
+}
+.glyphicon {
+	color: #b2b2b2;
+    font-size: 18px;
+}
+
+.content input{
+	width: 22vw;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border: 0;
+}
+
+.content input[placeholder]{
+	font-size: 1.3em;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.content2 input{
+	width: 11vw;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin-left: 8%;
+    margin-top: 5%;
+    border: 0;
+}
+.content2 input[placeholder]{
+	font-size: 1.3em;
+    padding-left: 3%;
+    padding-right: 5%;
+	
+}
+
+.btnsub {
+/*text-align: right; */
+	height:30%;
+	width:70%
+}
+.btnsub input{
+  padding-right: 9%;
+	padding-left:7%;
+margin-left:120px;
+margin-top:2px;
+    background-color: rgb(206, 217, 255);
+    border: 0; 
+    color: black;
+	height:180%;
+	width:30%;
+    
+}
+
+.btnsub input:hover{
+    background-color:#44ff44;
+}
+.errors {
+	position: absolute;
+    width: 20vw;
+    height: 70vh;
+    margin-left: 25%;
+    text-align: center;
+}
+p{ text-align="left";
+	color: red;
+    margin-left: 4vw;
+    font-size: 1.2em;
+}
+/* .btnsub2
+ {
+	 height:50%;
+	width:70%
+	padding-top:10px;
+	
+ } */
+ 
+ .btn2
+ {
+	 margin-left:870px;
+	 margin-top:50px;
+	
+ }
+ .btn2 input{
+  margin-right: 5%;
+	margin-left:7%;
+    padding: 2% 6% 2% 6%;
+    margin-top: 3%;
+    background-color: rgb(206, 217, 255);
+    border: 0; 
+    color: black;
+    
+}
+.ckbox {
+    height: 8vh;
+    border-bottom: 1px solid white;
+}
+.ckbox input{
+	margin-left: 5%;
+}
+.ckbox span{
+	font-size: 1em;
+    margin-left: 3%;
+}

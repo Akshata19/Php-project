@@ -1,0 +1,41 @@
+form{
+	width:40%;
+	margin: 0 auto;
+	padding:50px;
+	border:1px solid #555;
+	  background-color:	#FFA07A;
+}
+
+input
+{
+	width:100%;
+	border:1px solid #f1e1e1;
+	display:block;
+	padding:5px 10px;
+}
+
+button
+{
+	border:none;
+	padding:10px;
+	border-radius:10px;
+}
+table{
+	
+	width:60%;
+	border-collapse:collapse;
+	margin:50px auto;
+}
+td,th
+{height: 50px;
+vertical-align: center;
+border:1px solid black;
+}
+
+body
+{
+background-image: url("back.jpg");
+  background-repeat: no-repeat; /* Do not repeat the image */
+   background-size: cover; 
+ 
+}
